@@ -1,6 +1,5 @@
 package aulaSete.exemplosMatrizes;
 
-import javax.crypto.spec.PSource;
 
 public class Exemplo3 {
 	public static void main(String[] args) {
