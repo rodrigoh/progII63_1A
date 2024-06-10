@@ -1,4 +1,4 @@
-package aula16.exemploOO;
+package aula19.exemploOO;
 
 class Pessoa {
 	String nome;
