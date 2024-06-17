@@ -7,7 +7,6 @@ import java.util.Random;
 public class Banco {
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
-
 		System.out.print("Qual o nome do titular: ");
 		String nome = ler.next();
 		System.out.print("Qual o deposito inicial: ");
